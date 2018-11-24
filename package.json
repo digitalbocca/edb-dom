@@ -1,0 +1,28 @@
+{
+  "name": "edb-dom",
+  "version": "0.1.0",
+  "description": "Um seletor de elementos livre de gorduras.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitalbocca/edb-dom.git"
+  },
+  "keywords": [
+    "seletor",
+    "DOM",
+    "elementos",
+    "$"
+  ],
+  "author": "Gabriel Bertola Bocca - gabriel@estudiodigitalbocca.com.br",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/digitalbocca/edb-dom/issues"
+  },
+  "homepage": "https://github.com/digitalbocca/edb-dom#readme",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
