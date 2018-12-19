@@ -2,7 +2,7 @@
 
 ## edb-dom
 
-### v0.1.0
+### v0.2.0
 
 > Um seletor de elementos sem gorduras.
 
@@ -39,6 +39,11 @@ $('#idDoMeuElemento')
 
 ```
 
-> Esta é uma versão em desenvolvimento.
+## LOG DE MUDANÇAS
 
+### Mudanças na v0.2.0
+
+- Automatizado o controle de versão.
+
+> Esta é uma versão em desenvolvimento.
 > (c)2018 - Estúdio Digital Bocca
