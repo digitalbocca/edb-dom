@@ -1,10 +1,10 @@
 {
   "name": "edb-dom",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Um seletor de elementos livre de gorduras.",
   "main": "./src/index.js",
   "config": {
-    "commitMessage": "Automatizado o controle de versão"
+    "commitMessage": "Melhoria na documentação"
   },
   "scripts": {
     "git": "npm run gst && npm run gad && npm run gco && npm run gta && npm run gpu",
@@ -15,7 +15,7 @@
     "gpu": "npm run gpo && npm run gpb",
     "gpo": "git push origin master --tags",
     "gpb": "git push bb master --tags"
-  }, 
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/digitalbocca/edb-dom.git"
