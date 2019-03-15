@@ -2,13 +2,14 @@
 
 ## edb-dom
 
-### v0.3.0
+### v0.4.0
 
 > Um seletor de elementos sem gorduras.
 
 [![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
 
 [![JavaScript Style Guide](https://badgen.net/badge/code%20style/standard/yellow)](https://standardjs.com)
+[![Maintainability](https://api.codeclimate.com/v1/badges/30decef694c971b3fc5b/maintainability)](https://codeclimate.com/github/digitalbocca/edb-dom/maintainability)
 [![EDB](https://badgen.net/badge/produto/EDB/f19b2c)](https://estudiodigitalbocca.com.br)
 [![NPMv](https://badgen.net/npm/v/edb-dom)](https://www.npmjs.com/package/edb-dom)
 [![NPMlicense](https://badgen.net/npm/license/edb-dom)](https://www.npmjs.com/package/edb-dom)
@@ -54,11 +55,11 @@ $('#idDoMeuElemento')
 
 ```
 
-## PROGRAMADO PARA A PRÓXIMA VERSÃO
-
-- Adicionar selo codeclimate.
-
 ## LOG DE MUDANÇAS
+
+### Mudanças na v0.4.0
+
+- Adicionado selo CodeClimate.
 
 ### Mudanças na v0.3.0
 
