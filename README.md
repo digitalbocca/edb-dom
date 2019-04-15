@@ -2,7 +2,7 @@
 
 ## edb-dom
 
-### v0.4.0
+### v0.5.0
 
 > Um seletor de elementos sem gorduras.
 
@@ -57,17 +57,7 @@ $('#idDoMeuElemento')
 
 ## LOG DE MUDANÇAS
 
-### Mudanças na v0.4.0
-
-- Adicionado selo CodeClimate.
-
-### Mudanças na v0.3.0
-
-- Melhoria na documentação.
-
-### Mudanças na v0.2.0
-
-- Automatizado o controle de versão.
+- Veja no arquivo [CHANGELOG](CHANGELOG.md)
 
 > Esta é uma versão em desenvolvimento.
 > (c)2018-2019 Estúdio Digital Bocca

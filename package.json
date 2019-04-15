@@ -1,10 +1,10 @@
 {
   "name": "edb-dom",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Um seletor de elementos livre de gorduras.",
   "main": "./src/index.js",
   "config": {
-    "commitMessage": "Adicionado selo CodeClimate"
+    "commitMessage": "Modificação no controle de versão"
   },
   "scripts": {
     "git": "npm run gst && npm run gad && npm run gco && npm run gta && npm run gpu",
@@ -12,8 +12,9 @@
     "gad": "git add .",
     "gco": "cross-var git commit -m \"$npm_package_config_commitMessage\"",
     "gta": "cross-var git tag v$npm_package_version",
-    "gpu": "npm run gpo && npm run gpb",
+    "gpu": "npm run gpo && npm run gpb && npm run gpg",
     "gpo": "git push origin master --tags",
+    "gpg": "git push gl master --tags",
     "gpb": "git push bb master --tags"
   },
   "repository": {
