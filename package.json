@@ -1,10 +1,10 @@
 {
   "name": "edb-dom",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "Um seletor de elementos livre de gorduras.",
   "main": "./src/index.js",
   "config": {
-    "commitMessage": "Modificação no controle de versão"
+    "commitMessage": "Atualização de dependências"
   },
   "scripts": {
     "git": "npm run gst && npm run gad && npm run gco && npm run gta && npm run gpu",

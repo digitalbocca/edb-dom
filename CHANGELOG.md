@@ -2,13 +2,17 @@
 
 ## edb-dom
 
-### v0.5.0
+### v0.6.0
 
 > Um seletor de elementos sem gorduras.
 
 ---
 
 ## LOG DE MUDANÇAS
+
+### Mudanças na v0.6.0
+
+- Atualização de dependências.
 
 ### Mudanças na v0.5.0
 
