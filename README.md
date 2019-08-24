@@ -2,7 +2,7 @@
 
 ## edb-dom
 
-### v0.7.0
+### v0.8.0
 
 > Um seletor de elementos sem gorduras.
 
