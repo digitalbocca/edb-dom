@@ -1,6 +1,6 @@
 {
   "name": "edb-dom",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "description": "Um seletor de elementos livre de gorduras.",
   "main": "./src/index.js",
   "config": {
@@ -35,6 +35,6 @@
   "homepage": "https://github.com/digitalbocca/edb-dom#readme",
   "devDependencies": {
     "cross-var-no-babel": "^1.2.0",
-    "standard": "^14.0.2"
+    "standard": "^14.3.1"
   }
 }
