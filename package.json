@@ -1,6 +1,6 @@
 {
   "name": "edb-dom",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "description": "Um seletor de elementos livre de gorduras.",
   "main": "./src/index.js",
   "config": {

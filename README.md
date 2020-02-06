@@ -2,7 +2,7 @@
 
 ## edb-dom
 
-### v0.9.0
+### v0.10.0
 
 > Um seletor de elementos sem gorduras.
 
@@ -60,4 +60,4 @@ $('#idDoMeuElemento')
 - Veja no arquivo [CHANGELOG](CHANGELOG.md)
 
 > Esta é uma versão em desenvolvimento.
-> (c)2018-2019 Estúdio Digital Bocca
+> (c)2018-2020 Estúdio Digital Bocca

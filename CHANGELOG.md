@@ -2,13 +2,17 @@
 
 ## edb-dom
 
-### v0.9.0
+### v0.10.0
 
 > Um seletor de elementos sem gorduras.
 
 ---
 
 ## LOG DE MUDANÇAS
+
+### Mudanças na v0.10.0
+
+- Atualização de dependências.
 
 ### Mudanças na v0.9.0
 
@@ -43,4 +47,4 @@
 
 - Automatizado o controle de versão.
 
-> (c)2019 - Estúdio Digital Bocca
+> (c)2019-2020 Estúdio Digital Bocca
