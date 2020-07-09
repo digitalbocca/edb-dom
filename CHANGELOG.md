@@ -1,14 +1,72 @@
-# Estúdio Digital Bocca
-
-## edb-dom
-
-### v0.10.0
-
-> Um seletor de elementos sem gorduras.
+<p align="center">
+  <img src="https://estudiodigitalbocca.com.br/edb-logo.svg" width="200px">
+  <p align="center">Ultima Atualização na v0.11.0</p>
+  <h1 align="center">edb-dom</h1>
+  <h4 align="center">
+    Um seletor de elementos livre de gorduras.
+  </h4>
+  <p align="center">
+    <img src="https://badgen.net/badge/version/v0.11.0/orange">
+    <a href="https://standardjs.com">
+      <img src="https://badgen.net/badge/code%20style/standard/yellow">
+    </a>
+    <a href="https://codeclimate.com/github/digitalbocca/edb-dom/maintainability">
+      <img src="https://api.codeclimate.com/v1/badges/30decef694c971b3fc5b/maintainability">
+    </a>
+    <a href="https://estudiodigitalbocca.com.br">
+      <img src="https://badgen.net/badge/produto/EDB/f19b2c">
+    </a>
+    <a href="https://www.npmjs.com/package/edb-dom">
+      <img src="https://badgen.net/npm/v/edb-dom">
+    </a>
+    <a href="https://www.npmjs.com/package/edb-dom">
+      <img src="https://badgen.net/npm/license/edb-dom">
+    </a>
+    <a href="https://www.npmjs.com/package/edb-dom">
+      <img src="https://badgen.net/npm/dt/edb-dom">
+    </a>
+    <a href="https://github.com/digitalbocca/edb-dom">
+      <img src="https://badgen.net/github/tag/digitalbocca/edb-dom">
+    </a>
+    <a href="https://www.npmjs.com/package/edb-dom">
+      <img src="https://badgen.net/david/dep/digitalbocca/edb-dom">
+    </a>
+    <a href="https://www.npmjs.com/package/edb-dom">
+      <img src="https://badgen.net/david/dev/digitalbocca/edb-dom">
+    </a>
+    <a href="https://www.npmjs.com/package/edb-dom">
+      <img src="https://badgen.net/packagephobia/install/edb-dom">
+    </a>
+    <a href="https://www.npmjs.com/package/edb-dom">
+      <img src="https://badgen.net/packagephobia/publish/edb-dom">
+    </a>
+    <a href="https://www.npmjs.com/package/edb-dom">
+      <img src="https://badgen.net/bundlephobia/min/edb-dom">
+    </a>
+    <a href="https://www.npmjs.com/package/edb-dom">
+      <img src="https://badgen.net/bundlephobia/minzip/edb-dom">
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/standard/standard">
+      <img src="https://cdn.rawgit.com/standard/standard/master/badge.svg">
+    </a>
+  </p>
+  <p align="center">(c)2020 - Estúdio Digital Bocca</p>
+</p>
 
 ---
 
-## LOG DE MUDANÇAS
+# edb-dom - CHANGELOG
+
+---
+
+## REGISTRO DE ALTERAÇÕES
+
+### Mudanças na v0.11.0
+
+- Arquivos markdown seguem o padrão EDB2020.
+- Atualização de dependências.
 
 ### Mudanças na v0.10.0
 

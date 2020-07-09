@@ -1,26 +1,65 @@
-# Estúdio Digital Bocca
+<p align="center">
+  <img src="https://estudiodigitalbocca.com.br/edb-logo.svg" width="200px">
+  <p align="center">Ultima Atualização na v0.11.0</p>
+  <h1 align="center">edb-dom</h1>
+  <h4 align="center">
+    Um seletor de elementos livre de gorduras.
+  </h4>
+  <p align="center">
+    <img src="https://badgen.net/badge/version/v0.11.0/orange">
+    <a href="https://standardjs.com">
+      <img src="https://badgen.net/badge/code%20style/standard/yellow">
+    </a>
+    <a href="https://codeclimate.com/github/digitalbocca/edb-dom/maintainability">
+      <img src="https://api.codeclimate.com/v1/badges/30decef694c971b3fc5b/maintainability">
+    </a>
+    <a href="https://estudiodigitalbocca.com.br">
+      <img src="https://badgen.net/badge/produto/EDB/f19b2c">
+    </a>
+    <a href="https://www.npmjs.com/package/edb-dom">
+      <img src="https://badgen.net/npm/v/edb-dom">
+    </a>
+    <a href="https://www.npmjs.com/package/edb-dom">
+      <img src="https://badgen.net/npm/license/edb-dom">
+    </a>
+    <a href="https://www.npmjs.com/package/edb-dom">
+      <img src="https://badgen.net/npm/dt/edb-dom">
+    </a>
+    <a href="https://github.com/digitalbocca/edb-dom">
+      <img src="https://badgen.net/github/tag/digitalbocca/edb-dom">
+    </a>
+    <a href="https://www.npmjs.com/package/edb-dom">
+      <img src="https://badgen.net/david/dep/digitalbocca/edb-dom">
+    </a>
+    <a href="https://www.npmjs.com/package/edb-dom">
+      <img src="https://badgen.net/david/dev/digitalbocca/edb-dom">
+    </a>
+    <a href="https://www.npmjs.com/package/edb-dom">
+      <img src="https://badgen.net/packagephobia/install/edb-dom">
+    </a>
+    <a href="https://www.npmjs.com/package/edb-dom">
+      <img src="https://badgen.net/packagephobia/publish/edb-dom">
+    </a>
+    <a href="https://www.npmjs.com/package/edb-dom">
+      <img src="https://badgen.net/bundlephobia/min/edb-dom">
+    </a>
+    <a href="https://www.npmjs.com/package/edb-dom">
+      <img src="https://badgen.net/bundlephobia/minzip/edb-dom">
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/standard/standard">
+      <img src="https://cdn.rawgit.com/standard/standard/master/badge.svg">
+    </a>
+  </p>
+  <p align="center">(c)2020 - Estúdio Digital Bocca</p>
+</p>
 
-## edb-dom
+---
 
-### v0.10.0
+# edb-dom - README
 
-> Um seletor de elementos sem gorduras.
-
-[![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
-
-[![JavaScript Style Guide](https://badgen.net/badge/code%20style/standard/yellow)](https://standardjs.com)
-[![Maintainability](https://api.codeclimate.com/v1/badges/30decef694c971b3fc5b/maintainability)](https://codeclimate.com/github/digitalbocca/edb-dom/maintainability)
-[![EDB](https://badgen.net/badge/produto/EDB/f19b2c)](https://estudiodigitalbocca.com.br)
-[![NPMv](https://badgen.net/npm/v/edb-dom)](https://www.npmjs.com/package/edb-dom)
-[![NPMlicense](https://badgen.net/npm/license/edb-dom)](https://www.npmjs.com/package/edb-dom)
-[![NPMdownloads](https://badgen.net/npm/dt/edb-dom)](https://www.npmjs.com/package/edb-dom)
-[![GHv](https://badgen.net/github/tag/digitalbocca/edb-dom)](https://github.com/digitalbocca/edb-dom)
-[![DVdep](https://badgen.net/david/dep/digitalbocca/edb-dom)](https://www.npmjs.com/package/edb-dom)
-[![DVdev](https://badgen.net/david/dev/digitalbocca/edb-dom)](https://www.npmjs.com/package/edb-dom)
-[![PPi](https://badgen.net/packagephobia/install/edb-dom)](https://www.npmjs.com/package/edb-dom)
-[![PPp](https://badgen.net/packagephobia/publish/edb-dom)](https://www.npmjs.com/package/edb-dom)
-[![BPp](https://badgen.net/bundlephobia/min/edb-dom)](https://www.npmjs.com/package/edb-dom)
-[![BPp](https://badgen.net/bundlephobia/minzip/edb-dom)](https://www.npmjs.com/package/edb-dom)
+---
 
 ## PROPOSTA
 
@@ -55,7 +94,7 @@ $('#idDoMeuElemento')
 
 ```
 
-## LOG DE MUDANÇAS
+## REGISTRO DE ALTERAÇÕES
 
 - Veja no arquivo [CHANGELOG](CHANGELOG.md)
 
