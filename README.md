@@ -1,12 +1,12 @@
 <p align="center">
   <img src="https://estudiodigitalbocca.com.br/edb-logo.svg" width="200px">
-  <p align="center">Ultima Atualização na v0.11.0</p>
+  <p align="center">Ultima Atualização na v0.12.0</p>
   <h1 align="center">edb-dom</h1>
   <h4 align="center">
     Um seletor de elementos livre de gorduras.
   </h4>
   <p align="center">
-    <img src="https://badgen.net/badge/version/v0.11.0/orange">
+    <img src="https://badgen.net/badge/version/v0.12.0/orange">
     <a href="https://standardjs.com">
       <img src="https://badgen.net/badge/code%20style/standard/yellow">
     </a>
@@ -52,7 +52,7 @@
       <img src="https://cdn.rawgit.com/standard/standard/master/badge.svg">
     </a>
   </p>
-  <p align="center">(c)2020 - Estúdio Digital Bocca</p>
+  <p align="center">(c)2021 - Estúdio Digital Bocca</p>
 </p>
 
 ---
@@ -99,4 +99,4 @@ $('#idDoMeuElemento')
 - Veja no arquivo [CHANGELOG](CHANGELOG.md)
 
 > Esta é uma versão em desenvolvimento.
-> (c)2018-2020 Estúdio Digital Bocca
+> (c)2018-2021 Estúdio Digital Bocca
